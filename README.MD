@@ -50,3 +50,10 @@
 
 使用 jieba 进行分词，并使用 wordcloud 来生成词云图
 代码参见：[UserCommentJieba.py](UserCommentJieba.py)
+
+
+
+## 传送门
+欢迎关注我的公众号，一起交流技术事。
+![公众号](https://img-blog.csdn.net/20180825210222512)
+
